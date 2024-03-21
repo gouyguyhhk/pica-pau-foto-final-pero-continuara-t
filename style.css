@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(90deg, rgba(235,0,255,1) 0%, rgba(0,95,255,1) 34%, rgba(255,0,0,1) 52%, rgba(0,95,255,1) 66%, rgba(219,0,255,1) 100%);
+    color: springgreen;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: orangered;
+}
